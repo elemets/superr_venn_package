@@ -12,3 +12,5 @@ from superr_venn._plots import (
     create_stratified_error_profile,
 )
 from superr_venn._utils import make_sets_from_chunk_sizes
+
+__version__ = "0.1.0"
